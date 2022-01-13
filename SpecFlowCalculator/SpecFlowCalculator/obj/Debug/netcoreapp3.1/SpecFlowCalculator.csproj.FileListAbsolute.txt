@@ -1,0 +1,9 @@
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/bin/Debug/netcoreapp3.1/SpecFlowCalculator.deps.json
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/bin/Debug/netcoreapp3.1/SpecFlowCalculator.dll
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/bin/Debug/netcoreapp3.1/SpecFlowCalculator.pdb
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/obj/Debug/netcoreapp3.1/SpecFlowCalculator.csprojAssemblyReference.cache
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/obj/Debug/netcoreapp3.1/SpecFlowCalculator.AssemblyInfoInputs.cache
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/obj/Debug/netcoreapp3.1/SpecFlowCalculator.AssemblyInfo.cs
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/obj/Debug/netcoreapp3.1/SpecFlowCalculator.csproj.CoreCompileInputs.cache
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/obj/Debug/netcoreapp3.1/SpecFlowCalculator.dll
+/Users/enzogiammatteo/RiderProjects/SpecFlowCalculator/SpecFlowCalculator/obj/Debug/netcoreapp3.1/SpecFlowCalculator.pdb
